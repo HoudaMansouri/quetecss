@@ -1,0 +1,48 @@
+.titre {
+    text-align: center;
+}
+
+nav {
+    margin : 5px;
+    background-color:#636e72;
+    padding: -10px;
+    
+}
+.hm {
+    min-width: 80%;
+}
+ul {
+    display: flex;
+}
+ul li {
+    display: block;
+    list-style: none;
+    padding: 5px 10px;
+}
+
+form {
+    margin: 50px;
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+.carousel {
+    background-color:#dfe6e9;
+    padding: 100px;
+    margin: -20px;
+
+}
+.pic {
+    background-color: #dfe6e9;
+    height: 350px;
+    width: 400px;
+}
+#flex-container {
+    display: flex;
+    justify-content: space-around;
+}
+.barre {
+    border:black solid;
+    margin: 40px;
+}
